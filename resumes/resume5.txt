@@ -1,0 +1,15 @@
+Priya Rao
+Email: priya.rao@example.com | LinkedIn: linkedin.com/in/priyaraocodes | Location: Austin, TX
+
+SKILLS:
+- Programming: Python, R, SQL
+- ML Frameworks: TensorFlow, Scikit-learn
+- Cloud Platforms: AWS, Azure
+
+EXPERIENCE:
+Lead Data Scientist at AI Solutions Pvt. Ltd. (2018 - Present)
+- Led a team of 5 to build end-to-end ML pipelines
+- Achieved 95% accuracy in classification models
+
+EDUCATION:
+MS in Computer Science, University of Texas (2016)

@@ -1,0 +1,14 @@
+{
+  "name": "Alex Johnson",
+  "email": "alex.johnson@domain.co",
+  "skills": [
+    "Machine Learning"
+  ],
+  "experience": [
+    {
+      "title": "Data Scientist",
+      "company": "FinTech Solutions",
+      "years": 4
+    }
+  ]
+}

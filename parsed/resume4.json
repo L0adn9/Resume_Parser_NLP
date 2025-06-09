@@ -1,0 +1,16 @@
+{
+  "name": "Sam Williams",
+  "email": "sam.williams@email.org",
+  "skills": [
+    "Python",
+    "AWS",
+    "SQL"
+  ],
+  "experience": [
+    {
+      "title": "Data Scientist",
+      "company": "HealthTech Innovations",
+      "years": 2
+    }
+  ]
+}

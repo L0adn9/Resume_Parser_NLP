@@ -1,0 +1,14 @@
+Sam Williams
+Email: sam.williams@email.org | LinkedIn: linkedin.com/in/samwilliams | Location: Chicago, IL
+
+SKILLS:
+- Python, SQL, Excel, AWS, Azure
+- Scikit-learn, Keras, NLP
+
+EXPERIENCE:
+Data Scientist at HealthTech Innovations (2020 - 2022)
+- Built predictive models for patient readmission rates
+- Published 3 research papers on ML in healthcare
+
+EDUCATION:
+BSc in Statistics, Harvard University (2019)

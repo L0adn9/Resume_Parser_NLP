@@ -1,0 +1,15 @@
+Jane Smith
+Email: janesmith123@gmail.com | LinkedIn: linkedin.com/in/janesmith | Location: Seattle, WA
+
+SKILLS:
+- Python, TensorFlow, PyTorch, Spark
+- Hadoop, Kafka, Docker
+- Data Visualization, ETL Pipelines
+
+EXPERIENCE:
+Data Scientist at DataDriven Inc. (2019 - 2022)
+- Built recommendation systems for 1M+ users
+- Improved model accuracy by 20%
+
+EDUCATION:
+MS in Data Science, Stanford University (2017)

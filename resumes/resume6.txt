@@ -1,0 +1,14 @@
+Chris Brown
+Email: chris.brown@datascientist.net | LinkedIn: linkedin.com/in/chrisbrown | Location: New York, NY
+
+SKILLS:
+- Python, SQL, Java, Scala
+- Spark, Airflow, Git, Docker
+
+EXPERIENCE:
+Senior Data Scientist at CyberSecurity Firm (2020 - Present)
+- Designed anomaly detection systems for network traffic
+- Reduced false positives by 30%
+
+EDUCATION:
+BS in Computer Engineering, Columbia University (2018)

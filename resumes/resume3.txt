@@ -1,0 +1,14 @@
+Alex Johnson
+Email: alex.johnson@domain.co | LinkedIn: linkedin.com/in/alexjohnson | Location: Boston, MA
+
+SKILLS:
+- Machine Learning Algorithms (Random Forest, SVM)
+- Data Visualization (Matplotlib, Seaborn)
+- Big Data (Spark, Hadoop)
+
+EXPERIENCE:
+Data Scientist at FinTech Solutions (2021 - Present)
+- Created fraud detection models using anomaly detection
+
+EDUCATION:
+BS in Mathematics, MIT (2016)

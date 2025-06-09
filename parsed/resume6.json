@@ -1,0 +1,16 @@
+{
+  "name": "Chris Brown",
+  "email": "chris.brown@datascientist.net",
+  "skills": [
+    "Python",
+    "Java",
+    "SQL"
+  ],
+  "experience": [
+    {
+      "title": "Data Scientist",
+      "company": "CyberSecurity Firm",
+      "years": 5
+    }
+  ]
+}
