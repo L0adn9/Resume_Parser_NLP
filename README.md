@@ -1,4 +1,4 @@
-## 📄 AI-Powered Resume Parser
+## 📄 AI-Powered Resume Parser using NLP
 
 This project extracts structured information (Name, Email, Skills, Experience) from resumes in `.pdf`, `.docx`, and `.txt` formats using **Python**, **SpaCy**, **Regular Expressions**, and file parsers like **PDFMiner** and **python-docx**.
 
